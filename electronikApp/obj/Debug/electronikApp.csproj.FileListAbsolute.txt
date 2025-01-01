@@ -1,0 +1,10 @@
+C:\Users\Yusuf\source\repos\electronikApp\electronikApp\bin\Debug\electronikApp.exe.config
+C:\Users\Yusuf\source\repos\electronikApp\electronikApp\bin\Debug\electronikApp.exe
+C:\Users\Yusuf\source\repos\electronikApp\electronikApp\bin\Debug\electronikApp.pdb
+C:\Users\Yusuf\source\repos\electronikApp\electronikApp\bin\Debug\ClassLibrary.dll
+C:\Users\Yusuf\source\repos\electronikApp\electronikApp\bin\Debug\ClassLibrary.pdb
+C:\Users\Yusuf\source\repos\electronikApp\electronikApp\obj\Debug\electronikApp.csproj.AssemblyReference.cache
+C:\Users\Yusuf\source\repos\electronikApp\electronikApp\obj\Debug\electronikApp.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\source\repos\electronikApp\electronikApp\obj\Debug\electronikApp.csproj.CopyComplete
+C:\Users\Yusuf\source\repos\electronikApp\electronikApp\obj\Debug\electronikApp.exe
+C:\Users\Yusuf\source\repos\electronikApp\electronikApp\obj\Debug\electronikApp.pdb

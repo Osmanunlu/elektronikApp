@@ -1,0 +1,6 @@
+C:\Users\Yusuf\source\repos\electronikApp\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Yusuf\source\repos\electronikApp\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Yusuf\source\repos\electronikApp\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Yusuf\source\repos\electronikApp\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\source\repos\electronikApp\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Yusuf\source\repos\electronikApp\ClassLibrary\obj\Debug\ClassLibrary.pdb
